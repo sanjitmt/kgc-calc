@@ -1,0 +1,36 @@
+* (2023-02-19) - Fix relic effect on hero <Sanji>
+* (2023-02-16) - Fix Zuo Yun aspd during enlarge. <Sanji>
+* (2023-02-16) - Fix attack speed calculation <Sanji>
+* (2023-02-14) - Add slider for easier number input<Sanji>
+* (2023-02-10) - Fix void stack not sync with final sp calculation and kanak spell damage calculation.<Sanji>
+* (2023-02-09) - UI improvement -- Horizontal incr and desc <Sanji>
+* (2023-02-09) - Add kanak. <Sanji>
+* (2023-02-08) - Add save functionality - add 5 slots for save and load. <Sanji>
+* (2023-02-07) - Add Evan <Sanji>
+* (2023-02-07) - Add more stuff for skills. Also re-arrange the UI. <Sanji>
+* (2023-02-06) - update skills damage for several heros. <Sanji>
+* (2023-02-04) - add void icon <Sanji>
+* (2023-02-04) - Fix attack calculation problem. <Sanji>
+* (2023-02-03) - Add DPS for Mel and ZuoYun skills. <Sanji>
+* (2023-02-01) - vue watch for value. <Sanji>
+* (2023-02-01) - Fix issues for multiple lunis <Sanji>
+* (2023-02-01) - DSP page draft check in <Sanji>
+* (2023-01-19) - fix sorting bug. add sort button back. <Sanji>
+* (2023-01-19) - add copy url button <Sanji>
+* (2023-01-18) - adjust some format. <Sanji>
+* (2023-01-18) - Add a warning message for HT <Sanji>
+* (2023-01-18) - add health transfer calculation <Sanji>
+* (2023-01-17) - add Hela as one the the cary <Sanji>
+* (2023-01-13) - fix some text wrapping and cosmetic problems. <Sanji>
+* (2023-01-13) - Fix first bonk estimated damage. <Sanji>
+* (2023-01-13) - include staff for rose sp calculation. <Sanji>
+* (2023-01-13) - Fix the buff equations. Also add double buff. <Sanji>
+* (2023-01-13) - add rose sp <Sanji>
+* (2023-01-12) - add more configuration for luni <Sanji>
+* (2023-01-10) - Use panel for easy UI access <Sanji>
+* (2023-01-10) - some updates <Sanji>
+* (2023-01-10) - finish first draft. <Sanji>
+* (2023-01-09) - first version <Sanji>
+* (2023-01-09) - add native-ui <Sanji>
+* (2023-01-09) - init <Sanji>
+* (2023-01-09) - Initial commit <Sanji>

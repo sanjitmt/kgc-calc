@@ -1,4 +1,12 @@
 import { createApp } from 'vue'
+//theme
+import "primevue/resources/themes/arya-orange/theme.css";     
+//core
+import "primevue/resources/primevue.min.css";
+import "primeflex/primeflex.min.css";
+//icons
+import "primeicons/primeicons.css";
+
 import App from './App.vue'
 import router from './router'
 import PrimeVue from 'primevue/config';
